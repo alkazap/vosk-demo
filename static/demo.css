@@ -1,0 +1,84 @@
+.controls {
+	display: block;
+	margin: 1em;
+	padding: 0;
+}
+pre {
+	font-size: 80%;
+	margin: 1em;
+	padding: 0;
+}
+textarea {
+    resize: none;
+    display: block;
+    margin: auto auto;
+}
+#output {
+    background-color: #e6e6e6;
+    height: 400px;
+    overflow: auto;
+    font-family: monospace;
+    /* font-size: medium; */
+	white-space: pre-wrap;
+	margin: 1em;
+    padding: 2em;
+
+} 
+#statusBar {
+	color: #CC0000;
+}
+
+/* 
+#statusBar {
+	font-family: monospace;
+	color: #9F000F;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	padding: 0;
+}
+#serverStatusBar {
+	position: fixed;
+	bottom: 0.4em;
+	right: 0.4em;
+	top: auto;
+	left: auto;
+	font-family: monospace;
+	padding: 0.2em 0.2em 0.2em 0.2em;
+}
+
+.highlight {
+	color: red;
+}
+ins {
+	background-color: #c6ffc6;
+	text-decoration: none;
+}
+
+del {
+	background-color: #ffc6c6;
+}
+.diff {
+	font-family: monospace;
+}
+
+
+.buttonsContainer {
+	display: table;
+	position: fixed;
+	bottom: 0%;
+	left: 0%;
+	width: 100%;
+	height: 10%;
+	text-align: center;
+	background-color: rgba(128,128,200,0.7);
+}
+
+.buttons {
+	display: table-cell;
+	vertical-align: middle;
+	padding: 0.5em;
+}
+
+button {
+	width: 7em;
+} */
